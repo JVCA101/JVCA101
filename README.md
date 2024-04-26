@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there
+
+
+## Linguagens de Programação
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabisnb&layout=compact)](https://github.com/gabisnb/github-readme-stats)
 
 <!--
 **JVCA101/JVCA101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
