@@ -1,6 +1,3 @@
-### Hello there
-
-
 ## Linguagens de Programação
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVCA101&layout=compact)](https://github.com/JVCA101/github-readme-stats)
 
