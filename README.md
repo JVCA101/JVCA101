@@ -1,7 +1,8 @@
 ## Linguagens de Programação
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVCA101&layout=compact)](https://github.com/JVCA101/github-readme-stats)
+[![JVCA101's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JVCA101&hide=html,scss,stylus,blade,jupyter%20notebook,css,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/JVCA101)
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVCA101&layout=compact)](https://github.com/JVCA101/github-readme-stats)
 **JVCA101/JVCA101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
