@@ -1,5 +1,5 @@
 ## Linguagens de Programação
-[![JVCA101's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JVCA101&hide=html,scss,shell,stylus,blade,asp.net,shaderlab,css,dockerfile,typescript,hlsl,jupyter%20notebook&theme=algolia&show_icons=true&exclude_repo=Magago_Jogo3D,CG)](https://github.com/JVCA101)
+[![JVCA101's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JVCA101&hide=stylus,blade,asp.net,shaderlab,dockerfile,typescript,hlsl,jupyter%20notebook&theme=algolia&show_icons=true&exclude_repo=Magago_Jogo3D,CG)](https://github.com/JVCA101)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVCA101&layout=compact)](https://github.com/JVCA101/github-readme-stats)
