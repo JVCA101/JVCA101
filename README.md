@@ -1,18 +1,24 @@
 ## Linguagens de Programação
 [![JVCA101's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JVCA101&hide=stylus,blade,asp.net,shaderlab,dockerfile,typescript,hlsl,jupyter%20notebook&theme=algolia&show_icons=true&exclude_repo=Magago_Jogo3D,CG)](https://github.com/JVCA101)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVCA101&layout=compact)](https://github.com/JVCA101/github-readme-stats)
-**JVCA101/JVCA101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,r,bash)](https://skillicons.dev)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,cmake,tensorflow,opencv" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex,unity,godot" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,git" />
+  </a>
+</p>
